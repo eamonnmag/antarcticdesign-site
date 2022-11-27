@@ -1,0 +1,178 @@
+{"portfolio": [
+    {
+        "id": "elife13",
+        "client": "eLife Life Science Journals, Cambridge, UK",
+        "project": "eLife Podcast Pages",
+        "description": "",
+        "logo": "elife.png",
+        "screenshot": "elife.png",
+        "url": "http://www.elife.org/",
+        "tasks": ["Web Site Implementation"],
+        "technologies": ["HTML", "CSS"]
+    },
+    {
+        "id": "ro13",
+        "client": "Zoology Department, University of Oxford, UK",
+        "project": "Research Object",
+        "description": "For the Research Object project we were asked to create a brand and an attractive website which immediately shows what the project is all about. The RO project is about encapsulating as much information as possible about a biological experiment in to a 'packet' or object where everything is linked via RDF.",
+        "logo": "ro.png",
+        "screenshot": "ro_lrg.png",
+        "url": "http://www.researchobject.org/",
+        "tasks": ["Web Design", "Branding", "Illustration"],
+        "technologies": ["Wordpress", "HTML", "CSS", "JavaScript"]
+    },
+    {
+        "id": "poem13",
+        "client": "Oxford eResearch Centre, University of Oxford, UK",
+        "project": "PoemViewer",
+        "description": "",
+        "logo": "poem.png",
+        "screenshot": "poem_lrg.png",
+        "url": "http://www.ovii.org/PoemViewer",
+        "tasks": ["Branding"],
+        "technologies": ["N/A"]
+    },
+    {
+        "id": "pl13",
+        "client": "Zoology Department, University of Oxford, UK",
+        "project": "Penguin Lifelines",
+        "description": "When we were asked to do this project, we rubbed our hands with glee. Given our name, working with a high profile penguin research scientist was an awesome opportunity. We were asked to create an engaging website with a focus on two key aspects: donations and crowd sourced annotations. We have been doing a lot with isometric illustrations recently and thought that this project would lend itself well to it given what we were trying to convey about the project. Dr. Tom Hart, who commissioned this work was very pleased with the results and donations have risen considerably since its deployment in March.",
+        "logo": "plifelines.png",
+        "screenshot": "plifelines_lrg.png",
+        "url": "http://www.penguinlifelines.org/",
+        "tasks": ["Web Design", "Branding", "Illustration"],
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+//    {
+//        "id":"left12",
+//        "client": "Zoology Department, University of Oxford, UK",
+//        "project": "Local Ecological Footprinting Tool (LEFT)",
+//        "description": "",
+//        "logo": "",
+//        "screenshot": "",
+//        "url": "",
+//        "tasks": ["Web Design", "Branding", "Illustration"],
+//        "technologies": ["HTML", "CSS", "JavaScript"]
+//    },
+    {
+        "id": "oboe12",
+        "client": "Oxford e-Research Centre, University of Oxford, UK",
+        "project": "Oxford Batch Operating Environment (OBOE)",
+        "description": "OBOE is the Oxford Batch Operation Engine. Its purpose is to provide easy access to computing services – software applications that might normally reside on the user's computer, but with OBOE now exist in the cloud. Services are supported on a highly configurable, parallel and powerful infrastructure. We were asked to create a website which would immediately show what OBOE was all about and which gave users instant access to its services.",
+        "logo": "oboe.png",
+        "screenshot": "oboe_lrg.png",
+        "url": "http://oboe.oerc.ox.ac.uk",
+        "tasks": ["Web Design", "Branding", "Illustration"],
+        "technologies": ["HTML", "CSS", "JavaScript", "Ruby on Rails"]
+    },
+    {
+        "id": "biosharing12",
+        "client": "Oxford e-Research Centre, University of Oxford, UK",
+        "project": "BioSharing",
+        "description": "",
+        "logo": "biosharing.png",
+        "screenshot": "biosharing_lrg.png",
+        "url": "http://biosharing.org",
+        "tasks": ["Web Design", "Web App Development", "Branding", "Illustration"],
+        "technologies": ["HTML", "CSS", "JavaScript", "Django", "Python"]
+    },
+    {
+        "id": "ourc12",
+        "client": "Oxford University Rifle Club",
+        "project": "OURC Branding and Web Site",
+        "description": "Oxford University Rifle Club (OURC) is formed primarily of students from Oxford University. Here I rebranded the club, modernising the existing crest and created the website and illustrations. ",
+        "logo": "ourc.png",
+        "screenshot": "ourc_lrg.png",
+        "url": "http://ourc.org.uk",
+        "tasks": ["Web Design", "Web App Development", "Branding", "Illustration"],
+        "technologies": ["HTML", "CSS", "JavaScript", "Django" , "Python"]
+    },
+    {
+        "id": "emp10",
+        "client": "Earth Microbiome Project",
+        "project": "Earth Microbiome Project Logo and Mobile App",
+        "description": "\"The Earth Microbiome Project is a proposed massively multidisciplinary effort to analyze microbial communities across the globe. The general premise is to examine microbial communities from their own perspective. Hence we propose to characterize the Earth by environmental parameter space into different biomes and then explore these using samples currently available from researchers across the globe. We will analyze 200,000 samples from these communities using metagenomics, metatranscriptomics and amplicon sequencing to produce a global Gene Atlas describing protein space, environmental metabolic models for each biome, approximately 500,000 reconstructed microbial genomes, a global metabolic model, and a data-analysis portal for visualization of all information.\" EMP Website",
+        "logo": "emp.png",
+        "screenshot": "emp_lrg.png",
+        "url": "http://earthmicrobiome.org",
+        "tasks": ["Web Design", "Web App Development", "Branding", "Illustration"],
+        "technologies": ["N/A"]
+    },
+    {
+        "id": "lhsee11",
+        "client": "Physics Department, University of Oxford",
+        "project": "LHSee Logo and Mobile App Design",
+        "description": "\"Want to find out how to Hunt the Higgs Boson using your phone? Ever wondered how the Large Hadron Collider experiments work, and what the collisions look like? Scientists at the world's biggest scientific experiment - the Large Hadron Collider at CERN, Geneva - are trying to answer fundamental questions about the nature of the universe, the origin of mass, and structure of space and time. LHSee makes the Hadron Collider accessible to anybody with an Android smartphone or tablet PC. Written by Oxford University scientists in collaboration with the ATLAS experiment at CERN, it is designed for use by experts and non-experts alike.\"",
+        "logo": "lhsee.png",
+        "screenshot": "lhsee_lrg.png",
+        "url": "https://play.google.com/store/apps/details?id=com.lhsee&hl=en",
+        "tasks": ["Branding", "Mobile App Development"],
+        "technologies": ["Java", "Android"]
+    },
+    {
+        "id": "gsc10",
+        "client": "Genomic Standards Consortium (GSC)",
+        "project": "GSC Logo and Mobile App Design",
+        "description": "",
+        "logo": "gsc.png",
+        "screenshot": "gsc_lrg.png",
+        "url": "http://gensc.org",
+        "tasks": ["Branding", "Mobile App Development"],
+        "technologies": ["iOS", "Objective-C"]
+    },
+    {
+        "id": "scde10",
+        "client": "Harvard School of Public Health",
+        "project": "Stem Cell Discovery Engine",
+        "description": "The SCDE provides \"integrated access to tissue and cancer stem cell experimental information and molecular profiling analysis tools\".",
+        "logo": "scde.png",
+        "screenshot": "scde_lrg.png",
+        "url": "http://discovery.hsci.harvard.edu",
+        "tasks": ["Branding", "Web design"],
+        "technologies": ["HTML", "CSS"]
+    },
+    {
+        "id": "thistle10",
+        "client": "Thistle Music Ireland",
+        "project": "Thistle Music Ireland Branding and Website",
+        "description": "Thistle Music Ireland was created to provide the extra special touch for wedding days, anniversaries & many other occasions.",
+        "logo": "thistle_music_ireland.png",
+        "screenshot": "thistle_music_ireland_lrg.png",
+        "url": "http://thistle-music-ireland.co.uk/",
+        "tasks": ["Branding", "Web design"],
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "id": "cernbox",
+        "client": "CERNBox",
+        "project": "Thistle Music Ireland Branding and Website",
+        "description": "Thistle Music Ireland was created to provide the extra special touch for wedding days, anniversaries & many other occasions.",
+        "logo": "cernbox_sml.svg",
+        "screenshot": "thistle_music_ireland_lrg.png",
+        "url": "http://thistle-music-ireland.co.uk/",
+        "tasks": ["Branding", "Web design"],
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+//    {
+//        "id": "dashboard08",
+//        "client": "CERN - European Nuclear Research Organisation",
+//        "project": "Grid Reliability Dashboard Logo and Implementation",
+//        "description": ".",
+//        "logo": "dashboard.png",
+//        "screenshot": "dashboard_lrg.png",
+//        "url": "http://cern.ch/",
+//        "tasks": ["Branding", "Web design", "Web App Development"],
+//        "technologies": ["HTML", "CSS", "JavaScript", "Python"]
+//    }
+//    {
+//        "id":"cr13",
+//        "client": "Oxford e-Research Centre, University of Oxford, UK",
+//        "project": "Community Resource",
+//        "description": "\"Community Resource is an online collection of references compiled by researchers in the field of visualization (including scientific visualization, information visualization and visual analytics). It reflects individual volunteers’ knowledge about a particular subject domain, and is designed to complement conventional search engines which reply more on various rankings such as citations, publication time and user queries.\" CR Website",
+//        "logo": "",
+//        "screenshot": "",
+//        "url": "http://www.ovii.org/community/",
+//        "tasks": ["Web Design", "Web App Development", "Branding", "Illustration"],
+//        "technologies": ["HTML", "CSS", "JavaScript", "Django"]
+//    }
+]}
