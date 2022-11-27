@@ -1,0 +1,393 @@
+#antarctic_info {
+    display: block;
+    text-decoration: none;
+    width: 224px;
+    height: 300px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: 500;
+    border: 0;
+    background-image: url(img/penguin-top-right.png);
+    background-repeat: no-repeat
+}
+
+#antarctic_info img {
+    border: 0
+}
+
+#social_media {
+    padding-top: 15px;
+    padding-left: 60px
+}
+
+#preloader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1400;
+    width: 100%;
+    height: 100%;
+    background: url("img/preloadbg.jpg") left bottom
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    font: 0 Arial, Tahoma, Verdana;
+    color: #5c4735
+}
+
+#wrapper {
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+    background: url("img/mainbg-1.jpg") bottom left repeat-x
+}
+
+#preloaddude {
+    display: none
+}
+
+#info {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 2000;
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    color: #000;
+    font-size: 12px
+}
+
+#logo {
+    height: 180.24px;
+    width: 273.5px;
+    position: absolute;
+    z-index: 1500;
+    top: 50px;
+    left: 20px;
+    background: url("img/logo.png") no-repeat
+}
+
+#flare1 {
+    margin-left: -1000px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    z-index: 26;
+    bottom: 267px;
+    left: 0;
+    background: url("img/flare1.png") bottom left repeat-x
+}
+
+#flare2 {
+    margin-left: -700px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    z-index: 27;
+    bottom: 237px;
+    left: 0;
+    background: url("img/flare2.png") bottom left repeat-x
+}
+
+#flare3 {
+    margin-left: -250px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    z-index: 28;
+    bottom: 217px;
+    left: 0;
+    background: url("img/flare3.png") bottom left repeat-x
+}
+
+#flare4 {
+    margin-left: 1650px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    z-index: 29;
+    bottom: 137px;
+    left: 0;
+    background: url("img/flare4.png") bottom left repeat-x
+}
+
+#layer0 {
+    height: 200px;
+    width: 6000px;
+    position: absolute;
+    z-index: 12;
+    bottom: 240px;
+    left: 0;
+    background: url("img/layer0-1.png") bottom left repeat-x
+}
+
+#layer1 {
+    height: 226px;
+    width: 3504px;
+    position: absolute;
+    z-index: 10;
+    bottom: 246px;
+    left: 0;
+    background: url("img/layer1-1.png") bottom left repeat-x
+}
+
+#layer3 {
+    height: 171px;
+    width: 500px;
+    position: absolute;
+    z-index: 20;
+    bottom: 145px;
+    left: 0;
+    background: url("img/penguin.png") right no-repeat
+}
+
+#layer4 {
+    height: 315px;
+    width: 6000px;
+    position: absolute;
+    z-index: 25;
+    bottom: 75px;
+    left: 0;
+    background: url("img/layer4-1.png") bottom left no-repeat
+}
+
+#layer5 {
+    height: 514px;
+    width: 6000px;
+    position: absolute;
+    z-index: 30;
+    bottom: 67px;
+    left: 0;
+    background: url("img/layer5-1.png") bottom left no-repeat
+}
+
+#layerPortfolio {
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    padding-top: 114px;
+    margin-left: 3050px;
+    overflow: hidden
+}
+
+#portfoliocontainer {
+    width: 582px;
+    height: 400px;
+    margin-left: 89px;
+    overflow: hidden;
+    position: relative
+}
+
+#portfoliofilm {
+    padding: 0 23px;
+    width: 536px;
+    height: 400px;
+    top: -340px;
+    background: url("img/portfoliofilm-1.png") left bottom no-repeat;
+    font-size: 12px
+}
+
+span.case {
+    display: inline-block;
+    margin-right: 22px;
+    margin-bottom: 10px
+}
+
+span.case img {
+    display: inline-block;
+    padding: 2px;
+    background: none;
+    cursor: pointer
+}
+
+span.case img:hover {
+    cursor: pointer
+}
+
+#imgcontainer {
+    margin-bottom: 0
+}
+
+#imgcontainer:hover {
+    cursor: pointer
+}
+
+#img {
+    width: 40px;
+    float: left;
+    padding: 1px 0
+}
+
+#imgnums {
+    width: 400px;
+    float: left
+}
+
+#imgnums span {
+    display: inline-block;
+    padding: 1px 2px;
+    cursor: pointer
+}
+
+#imgnums span.selected {
+    background: #cec7c2
+}
+
+#paging {
+    margin-top: -5px
+}
+
+#paging a {
+    display: inline-block;
+    padding: 1px 4px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #5c4735
+}
+
+#paging a.selected {
+    background: #cec7c2
+}
+
+h2 {
+    font: 14px Arial, tahoma, Verdana;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    margin-top: 8px
+}
+
+#caseleft {
+    width: 250px;
+    float: left
+}
+
+#caseright {
+    width: 250px;
+    float: right;
+    text-align: right
+}
+
+#caseleft, #caseright {
+    margin-top: 15px
+}
+
+#caseleft a, #caseright a {
+    display: inline-block;
+    padding: 4px 8px;
+    color: #fff;
+    text-decoration: none;
+    background: #699639
+}
+
+#caseright a {
+    background: #382b22
+}
+
+#caseleft a:hover {
+    background: #9cc175
+}
+
+#caseright a:hover {
+    background: #816d5f
+}
+
+#dimmer {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 960;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    filter: alpha(opacity = 90);
+    -moz-opacity: .90;
+    opacity: .90;
+    display: none
+}
+
+#dimmercontent {
+    cursor: pointer;
+    font-size: 14px;
+    color: #13252b;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 970;
+    width: 100%;
+    margin: 0 auto;
+    display: none;
+    text-align: center;
+    margin-top: 50px
+}
+
+#dimmercontent img {
+    cursor: pointer;
+    margin-bottom: 10px
+}
+
+.clear {
+    clear: both
+}
+
+#footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 950;
+    height: 50px;
+    background: #382b22 url("img/footerbg-1.jpg") center bottom no-repeat;
+    width: 100%;
+    background-color: #87bfd5
+}
+
+#menucontainer {
+    margin: 0 auto;
+    width: 990px;
+    height: 15px;
+    margin-top: 5px
+}
+
+#ahome {
+    display: inline-block;
+    width: 70px;
+    height: 15px;
+    margin-right: 390px;
+    cursor: pointer
+}
+
+#aportfolio {
+    display: inline-block;
+    width: 70px;
+    height: 15px;
+    margin-right: 387px;
+    cursor: pointer
+}
+
+#acontact {
+    display: inline-block;
+    width: 70px;
+    height: 15px;
+    cursor: pointer
+}
+
+#scrollbar {
+    height: 17px;
+    width: 986px;
+    margin: 0 auto;
+    margin-top: 4px;
+    position: relative
+}
+
+#dragBtn {
+    cursor: pointer
+}

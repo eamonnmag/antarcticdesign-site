@@ -1,0 +1,59 @@
+div#twitter {
+	padding-top:60px;
+	font: 13px Gill Sans, Verdana;
+	color: #414042;
+}
+
+div#twitter h2 {
+	margin: 0;
+	font-size: 13px;
+	font-family:"Gill Sans", Verdana;
+	font-weight:bolder;
+	color: #414042;
+}
+
+p#preloader {
+	margin: 0;
+	padding: 1em 1em 1em 3em;
+	background: transparent url("img/loader.png") 1em center no-repeat;
+	/* generate your own loader gif: http://www.ajaxload.info */
+}
+
+ul#twitter_update_list {
+	margin: 0;
+	padding: 0 1em 0.5em 1em;
+	list-style-type: none;
+}
+
+ul#twitter_update_list li {
+	margin: 0;
+	padding: 0.8em 0 1em 0;
+}
+
+ul#twitter_update_list li a {
+	/* timestamp link */
+	color: #1C75BC;
+}
+
+ul#twitter_update_list li span {
+	display: block;
+}
+
+ul#twitter_update_list li span a {
+	/* links in tweet */
+	color: #414042;
+}
+
+ul#twitter_update_list li.firstTweet {
+}
+
+ul#twitter_update_list li.lastTweet {
+	font: 14px Gill Sans, Verdana;
+}
+
+a#profileLink {
+	display: block;
+	padding: 0.3em 1em;
+	color: #fff;
+	background-color: #1C75BC;
+}
